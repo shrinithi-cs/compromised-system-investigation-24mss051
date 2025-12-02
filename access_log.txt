@@ -1,0 +1,4 @@
+USB Connected: 22:43  
+User: shri
+Path opened: \Secrets\
+Note: A photo was viewed before copying the files.
